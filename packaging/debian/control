@@ -1,0 +1,9 @@
+Package: lh-container-auditor
+Version: 0.1.0
+Section: utils
+Priority: optional
+Architecture: all
+Maintainer: Sameer Tawade <ops@logihertz.com>
+Homepage: https://www.logihertz.com
+Description: lh-container - Container Isolation & Namespace Escape Risk Probability
+ Zero-dependency container security auditor inspecting Dockerfiles, Docker Compose manifests, and OCI image layers for root execution, capability leaks, unpinned digests, and host namespace escapes.
